@@ -1,5 +1,5 @@
 import MainLayout from "../../components/laouts/MainLayout"
-import Link from "next/link"
+import Link from 'next/link'
 
 const PrincingPage = () => {
   return (
